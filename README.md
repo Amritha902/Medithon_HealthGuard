@@ -1,5 +1,6 @@
 # HealthGuard: A Multifunctional Healthcare Solution for Wearable Monitoring, Automated Tablet Dispensing, and AI-Driven Medical Consultation with Emergency Call Features - MediKisok
 
+https://www.canva.com/design/DAGSJHZBCrE/4o0ksG8mfAIVAnkz4JqoJw/edit?utm_content=DAGSJHZBCrE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 **Description**
 HealthGuard is an advanced healthcare system that combines hardware (wearables and dispensers), AI/ML diagnostics, video calling, and cloud-based databases for comprehensive patient care. It monitors vital signs, automatically dispenses medication, and uses AI for disease detection, all integrated with hospital databases for real-time updates.
