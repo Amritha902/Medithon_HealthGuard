@@ -1,6 +1,7 @@
 # HealthGuard: A Multifunctional Healthcare Solution for Wearable Monitoring, Automated Tablet Dispensing, and AI-Driven Medical Consultation with Emergency Call Features - MediKisok
-
+ppt link:
 https://www.canva.com/design/DAGSJHZBCrE/4o0ksG8mfAIVAnkz4JqoJw/edit?utm_content=DAGSJHZBCrE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+cad file:
 https://cad.onshape.com/documents/b6a72c84b830afc5cac76ee6/w/b3fce4d1ed7f8a4e1461b120/e/fa1fbfb90f64f66f71b94a5f
 
 **Description**
